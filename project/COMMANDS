@@ -1,0 +1,9 @@
+CONNECT - Connect to the Text ChatRoulette server
+CHAT - Request the Text ChatRoulette server to connect with another client to chat
+QUIT - Quit the current chat channel
+TRANSFER - Send a file to the other client on the current chat channel
+FLAG - Report the current chatting partner to the Text ChatRoulette server
+HELP - Display this command list
+MESSAGE - Send a message to the current chatting partner
+EXIT - Disconnect from the Text ChatRoulette server and quit the client program
+CONFIRM - Check with the Text ChatRoulette server if you are in the chat queue
